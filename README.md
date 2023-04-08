@@ -1,4 +1,5 @@
-# Estudo de caso de GUI
+# Estudo de caso de GUI 
+![deitel-DrawPanel-sem-som-ref-corte-2x](https://user-images.githubusercontent.com/1190715/230727724-c49245d3-4b68-44ed-a2a3-81036e0f30a4.gif)
 ## O que você vai estudar
 Princípios da Programação Orientada a Objetos (POO), construção de aplicações gráficas simples e lógica de programação (raciocínio lógico).
 ## Resumo
