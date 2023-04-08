@@ -9,7 +9,6 @@ import javax.swing.JFrame;
 public class DrawPanelTest_4_1_a {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 		// cria um painel que contém nosso desenho
 		DrawPanel_4_1_a panel = new DrawPanel_4_1_a();
@@ -19,7 +18,6 @@ public class DrawPanelTest_4_1_a {
 		
 		// configura o frame para ele ser encerrado quando a janela fechar
 		application.setDefaultCloseOperation( JFrame.EXIT_ON_CLOSE );
-		
 		
 		application.add( panel ); // adiciona o painel ao frame
 		application.setSize( 250, 250); // configura o tamanho do frame
